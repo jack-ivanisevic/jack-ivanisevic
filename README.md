@@ -59,20 +59,45 @@ I specialize in building solutions that are scalable, maintainable, and designed
 ## Featured Case Studies
 
 ### CRM Migration Case Study (Mailchimp → Klaviyo)
-A complete migration including data cleaning, property mapping, lifecycle flow reconstruction, DNS authentication, and deliverability improvements.  
-**Repo:** _coming soon_
+End-to-end migration including data normalization, segmentation structure, flow rebuilds, DNS authentication, and deliverability improvements.  
+**Repo:** https://github.com/jack-ivanisevic/crm-migration-case-study
 
-### Email Lifecycle System Architecture
-A full lifecycle automation ecosystem built for engagement, retention, and long-term customer value.  
-**Repo:** _coming soon_
+### Lifecycle Automation Architecture
+Comprehensive lifecycle flow architecture covering welcome, cart, browse, post-purchase, winback, and reactivation systems, including segmentation, triggers, and timing strategy.  
+**Repo:** https://github.com/jack-ivanisevic/lifecycle-automation-architecture
 
-### Technical Integration & Automation Patterns
-API workflows, webhook processing, JSON payload mapping, and technical automation design.  
-**Repo:** _coming soon_
+### Technical Integrations & Webhooks
+Patterns and examples covering API integration logic, event processing, webhook ingestion, JSON handling, and technical workflow design.  
+**Repo:** https://github.com/jack-ivanisevic/technical-integrations-and-webhooks
 
 ### Analytics & Data Frameworks
-Attribution structures, reporting logic, UTM governance, and segmentation performance modeling.  
-**Repo:** _coming soon_
+Data modeling, UTM governance, reporting workflows, and CRM analytics structure for insight-driven marketing performance.  
+**Repo:** https://github.com/jack-ivanisevic/analytics-and-data-frameworks
+
+### Cancer Cell Classification – ML Case Study
+Machine learning case study demonstrating preprocessing, classification logic, evaluation metrics, and applied ML workflows.  
+**Repo:** https://github.com/jack-ivanisevic/cancer-cell-classification-ml-project
+
+### Python Automation Scripts Pack
+A collection of practical automation scripts for CSV cleaning, JSON normalization, API fetching, and workflow utilities.  
+**Repo:** https://github.com/jack-ivanisevic/python-automation-scripts-pack
+
+### Mini CRM Dashboard App (Concept)
+A full-stack mini CRM concept showing data modeling, backend logic, and dashboard-style UI workflow design.  
+**Repo:** https://github.com/jack-ivanisevic/mini-crm-dashboard-app
+
+### AI-Assisted Email Subject Line Generator (Concept)
+An AI/ML-inspired system for generating optimized subject lines based on campaign type, tone, and lifecycle strategy.  
+**Repo:** https://github.com/jack-ivanisevic/ai-email-subject-line-generator
+
+### LMS Module Development Case Study
+Custom LMS module development, templates, automation logic, and learning workflow architecture for modern learning environments.  
+**Repo:** https://github.com/jack-ivanisevic/lms-module-development-case-study
+
+### Inventory Management System Architecture
+System design case study outlining a scalable inventory and asset management platform with API structure, data models, and workflow automation.  
+**Repo:** https://github.com/jack-ivanisevic/inventory-management-system-architecture
+
 
 ---
 
