@@ -1,103 +1,9 @@
-<h1 align="center">Hi — I'm Jack Ivanisevic</h1>
-<h3 align="center">Full-Stack Developer • CRM & Email Automation Specialist • Technical Systems & AI-Enhanced Workflow Designer</h3>
+# Hi — I'm Jack Ivanisevic  
+### CRM, Email Automation & Technical Engineering Specialist
 
-<p align="center">
-  Software Development • Lifecycle Automation • Platform Migrations • Data Engineering • Integrations • AI/ML Foundations
-</p>
+I work at the intersection of CRM strategy, lifecycle automation, technical engineering, and data-driven problem-solving. I build reliable systems, clean data structures, optimized lifecycle programs, and automation workflows that help organizations scale with clarity and precision.
 
----
-
-## About Me
-
-I am a senior hybrid professional with a unique blend of capabilities across:
-
-- **Full-stack development (frontend, backend, integrations, systems)**  
-- **CRM, email marketing, lifecycle automation, and customer data management**  
-- **Technical automation, event-based workflows, and data-driven personalization**  
-- **AI/ML foundations applied to segmentation, scoring, and efficiency optimization**
-
-My background spans software engineering, CRM platform migrations, analytics design, automation strategy, and multi-client technical execution. I thrive at the intersection of development, marketing systems, and intelligent automation.
-
-I specialize in building solutions that are scalable, maintainable, and designed around real business goals. Whether I’m writing code, architecting a CRM migration, or designing a multi-step automation, my focus is always on reliability, performance, and clarity.
-
----
-
-## What I Do
-
-### Software Development & Engineering
-- Full-stack application development  
-- Backend API design and integration  
-- Python and JavaScript development  
-- SQL data work, schema design, and optimization  
-- Linux systems, automation scripts, and environment configuration  
-- Webhooks, REST APIs, and event-driven architecture  
-
-### CRM & Email Automation
-- Lifecycle flow architecture (Welcome, Cart, Browse, Winback, Sunset)  
-- CRM migrations (Mailchimp → Klaviyo, SFMC familiarity)  
-- Segmentation logic, profiling, and behavioral data mapping  
-- Template engineering, dynamic content, and personalization logic  
-- Deliverability configuration (SPF, DKIM, warming plans)  
-- A/B testing, analytics, performance optimization  
-
-### Technical Systems, Data, and Integrations
-- API and webhook integrations across multiple platforms  
-- JSON payload processing and data transformation  
-- Tracking design, UTM governance, and attribution alignment  
-- DNS configuration (SPF, DKIM, DMARC)  
-- System interoperability and technical troubleshooting  
-
-### AI and Machine Learning (Applied)
-- Predictive segmentation and behavioral modeling  
-- Workflow optimization using AI/ML insights  
-- Data preparation and automated decisioning logic  
-- Applying ML fundamentals to improve automation efficiency  
-- Technical integration of AI tools where appropriate  
-
----
-
-## Featured Case Studies
-
-### CRM Migration Case Study (Mailchimp → Klaviyo)
-End-to-end migration including data normalization, segmentation structure, flow rebuilds, DNS authentication, and deliverability improvements.  
-**Repo:** https://github.com/jack-ivanisevic/crm-migration-case-study
-
-### Lifecycle Automation Architecture
-Comprehensive lifecycle flow architecture covering welcome, cart, browse, post-purchase, winback, and reactivation systems, including segmentation, triggers, and timing strategy.  
-**Repo:** https://github.com/jack-ivanisevic/lifecycle-automation-architecture
-
-### Technical Integrations & Webhooks
-Patterns and examples covering API integration logic, event processing, webhook ingestion, JSON handling, and technical workflow design.  
-**Repo:** https://github.com/jack-ivanisevic/technical-integrations-and-webhooks
-
-### Analytics & Data Frameworks
-Data modeling, UTM governance, reporting workflows, and CRM analytics structure for insight-driven marketing performance.  
-**Repo:** https://github.com/jack-ivanisevic/analytics-and-data-frameworks
-
-### Cancer Cell Classification – ML Case Study
-Machine learning case study demonstrating preprocessing, classification logic, evaluation metrics, and applied ML workflows.  
-**Repo:** https://github.com/jack-ivanisevic/cancer-cell-classification-ml-project
-
-### Python Automation Scripts Pack
-A collection of practical automation scripts for CSV cleaning, JSON normalization, API fetching, and workflow utilities.  
-**Repo:** https://github.com/jack-ivanisevic/python-automation-scripts-pack
-
-### Mini CRM Dashboard App (Concept)
-A full-stack mini CRM concept showing data modeling, backend logic, and dashboard-style UI workflow design.  
-**Repo:** https://github.com/jack-ivanisevic/mini-crm-dashboard-app
-
-### AI-Assisted Email Subject Line Generator (Concept)
-An AI/ML-inspired system for generating optimized subject lines based on campaign type, tone, and lifecycle strategy.  
-**Repo:** https://github.com/jack-ivanisevic/ai-email-subject-line-generator
-
-### LMS Module Development Case Study
-Custom LMS module development, templates, automation logic, and learning workflow architecture for modern learning environments.  
-**Repo:** https://github.com/jack-ivanisevic/lms-module-development-case-study
-
-### Inventory Management System Architecture
-System design case study outlining a scalable inventory and asset management platform with API structure, data models, and workflow automation.  
-**Repo:** https://github.com/jack-ivanisevic/inventory-management-system-architecture
-
+My background spans CRM/email platforms, custom automation, API integrations, data modeling, full-stack concepts, and applied AI/ML. I bridge the gap between marketing and engineering — creating solutions that are functional, maintainable, and measurable.
 
 ---
 
@@ -114,49 +20,89 @@ System design case study outlining a scalable inventory and asset management pla
 ### Technical / Engineering
 - Python development (automation, data processing, API services)
 - SQL querying and schema design
-- REST API design and integration workflows
-- JSON parsing, normalization, and transformation
-- Linux tooling, command-line workflows, environment setup
-- System architecture planning and documentation
+- REST API design and system integration
+- JSON parsing, normalization, transformation workflows
+- Linux tooling & command-line automations
+- Systems architecture & documentation
 
 ### AI / Machine Learning
 - Applied ML workflows (classification, preprocessing, evaluation)
-- Feature engineering & model comparison
 - Notebook-based experimentation (Jupyter)
-- Data pipeline structure and reproducibility
-- Model assessment (accuracy, precision, recall, F1)
+- Model interpretation: accuracy, precision, recall, F1
+- Data pipeline structure & reproducibility
+- Feature engineering & dataset preparation
 
 ### Full-Stack & Application Design
-- Backend architecture patterns & service layers
-- CRUD operations, routing, validation, error handling
-- Lightweight UI structures for internal tools and dashboards
-- Modular code structure and maintainable project layout
+- Backend architecture & service-layer patterns
+- CRUD operations, validation, and error handling
+- Lightweight UI logic for dashboards & internal tools
+- Modular project structure & maintainable code organization
 
 ### LMS / Learning Systems
-- Moodle module customization and extensions
-- Activity templates, workflows, and automation
+- Moodle module customization & extension
+- Activity templates, workflows, and automated learning paths
 - Instructional design alignment with learning outcomes
-- Learner analytics and engagement tracking
+- Learner analytics, reporting, and performance insights
 
 ---
 
-## Certifications
-- Klaviyo Product Certification  
-- Scrum Master Certification  
-- Google Analytics Certification  
-- Fanshawe College – AI/ML Program (President’s Honour List)
+## Featured Case Studies
+
+### CRM Migration Case Study (Mailchimp → Klaviyo)
+End-to-end migration including data normalization, segmentation structure, flow rebuilds, DNS authentication, and deliverability improvements.  
+**Repo:** https://github.com/jack-ivanisevic/crm-migration-case-study
+
+### Lifecycle Automation Architecture  
+Comprehensive automation ecosystem covering welcome, cart, browse, post-purchase, winback, and reactivation flows with segmentation and timing strategy.  
+**Repo:** https://github.com/jack-ivanisevic/lifecycle-automation-architecture
+
+### Technical Integrations & Webhooks  
+Patterns for API logic, data ingestion, event handling, and JSON-based workflow design across systems.  
+**Repo:** https://github.com/jack-ivanisevic/technical-integrations-and-webhooks
+
+### Analytics & Data Frameworks  
+Data modeling, UTM governance, performance dashboards, and reporting workflows for insight-driven CRM operations.  
+**Repo:** https://github.com/jack-ivanisevic/analytics-and-data-frameworks
 
 ---
 
-## Contact
+## Additional Projects
 
-- Email: **tftjack@gmail.com**  
-- LinkedIn: **https://www.linkedin.com/in/jack-ivanisevic/**  
+### Cancer Cell Classification – ML Case Study  
+Machine learning project demonstrating preprocessing, classification logic, model evaluation, and applied ML workflow.  
+**Repo:** https://github.com/jack-ivanisevic/cancer-cell-classification-ml-project
+
+### Python Automation Scripts Pack  
+Practical scripts for CSV cleaning, JSON normalization, API fetching, and workflow utilities in CRM/data operations.  
+**Repo:** https://github.com/jack-ivanisevic/python-automation-scripts-pack
+
+### Mini CRM Dashboard App (Concept)  
+A full-stack CRM dashboard concept with clear data model, backend logic, and dashboard workflow patterns.  
+**Repo:** https://github.com/jack-ivanisevic/mini-crm-dashboard-app
+
+### AI-Assisted Email Subject Line Generator (Concept)  
+Rule-based and AI-inspired system for generating optimized subject lines for lifecycle and campaign scenarios.  
+**Repo:** https://github.com/jack-ivanisevic/ai-email-subject-line-generator
+
+### LMS Module Development Case Study  
+Learning module templates, automation logic, workflow design, and LMS system extension (Moodle) case study.  
+**Repo:** https://github.com/jack-ivanisevic/lms-module-development-case-study
+
+### Inventory Management System Architecture  
+High-level architecture for a scalable asset tracking and inventory system including data models, workflows, and API structure.  
+**Repo:** https://github.com/jack-ivanisevic/inventory-management-system-architecture
 
 ---
 
 ## Fun Fact
 
-CRM, email marketing, and coding are genuinely so enjoyable for me that they rarely feel like work. As an old saying goes, “Find a job you enjoy doing, and you will never work a day in your life.” — often credited to Mark Twain
+CRM, email automation, and coding are so enjoyable to me that they rarely feel like “work.”  
+I’ve always resonated with the idea often attributed to Confucius:  
+**“Choose a job you love, and you’ll never work a day in your life.”**
 
+---
 
+## Contact
+
+**Email:** tftjack@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/jack-ivanisevic/
