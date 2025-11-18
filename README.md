@@ -1,108 +1,117 @@
 <h1 align="center">Hi — I'm Jack Ivanisevic</h1>
-<h3 align="center">CRM, Email Marketing & Technical Automation Specialist</h3>
+<h3 align="center">Full-Stack Developer • CRM & Email Automation Specialist • Technical Systems & AI-Enhanced Workflow Designer</h3>
 
 <p align="center">
-  Platform Migrations • Lifecycle Strategy • Data, Coding & Integrations
+  Software Development • Lifecycle Automation • Platform Migrations • Data Engineering • Integrations • AI/ML Foundations
 </p>
 
 ---
 
 ## About Me
 
-I’m a senior-level **CRM & Email Marketing Contractor** with a hybrid background spanning:
+I am a senior hybrid professional with a unique blend of capabilities across:
 
-- **Email marketing & lifecycle strategy**  
-- **CRM platform migrations (Mailchimp → Klaviyo, SFMC familiarity)**  
-- **Technical automation, data workflows & integrations**  
-- **Marketing analytics, tracking & optimization**  
+- **Full-stack development (frontend, backend, integrations, systems)**  
+- **CRM, email marketing, lifecycle automation, and customer data management**  
+- **Technical automation, event-based workflows, and data-driven personalization**  
+- **AI/ML foundations applied to segmentation, scoring, and efficiency optimization**
 
-I bridge the gap between **marketing** and **engineering**, making it easier for brands to manage audiences, automate communication, and improve performance across their digital stack.
+My background spans software engineering, CRM platform migrations, analytics design, automation strategy, and multi-client technical execution. I thrive at the intersection of development, marketing systems, and intelligent automation.
 
-I also bring formal **AI/ML training** that strengthens my ability to build predictive segments, scoring models, and intelligent automation flows.
-
-I’m passionate about clean data, elegant workflows, and systems that deliver value at scale.
+I specialize in building solutions that are scalable, maintainable, and designed around real business goals. Whether I’m writing code, architecting a CRM migration, or designing a multi-step automation, my focus is always on reliability, performance, and clarity.
 
 ---
 
 ## What I Do
 
-### 📩 CRM & Email Automation
-- Lifecycle design (Welcome, Abandon Cart, Browse, Post-Purchase, Winback, Sunset)  
-- Advanced segmentation & personalization  
-- Consent management (CASL, CAN-SPAM)  
-- Deliverability, DNS/SPF/DKIM, domain warming  
-- A/B testing, optimization & analytics  
+### Software Development & Engineering
+- Full-stack application development  
+- Backend API design and integration  
+- Python and JavaScript development  
+- SQL data work, schema design, and optimization  
+- Linux systems, automation scripts, and environment configuration  
+- Webhooks, REST APIs, and event-driven architecture  
 
-### 🔄 Platform Migrations
-- Data extraction, cleaning, normalization & mapping  
-- Rebuilding flows, templates, segments & forms  
-- UTM strategy, naming conventions & property governance  
-- DNS setup & authentication  
-- QA, end-to-end testing & performance validation  
+### CRM & Email Automation
+- Lifecycle flow architecture (Welcome, Cart, Browse, Winback, Sunset)  
+- CRM migrations (Mailchimp → Klaviyo, SFMC familiarity)  
+- Segmentation logic, profiling, and behavioral data mapping  
+- Template engineering, dynamic content, and personalization logic  
+- Deliverability configuration (SPF, DKIM, warming plans)  
+- A/B testing, analytics, performance optimization  
 
-### 🛠 Technical & Automation
-- APIs, webhooks & JSON payloads  
-- Python & SQL for data processing  
-- Event tracking & UTM governance  
-- DNS, SPF, DKIM, DMARC configuration  
-- Linux tooling, analytics setup, integration troubleshooting  
-- AI/ML fundamentals for segmentation & automation logic  
+### Technical Systems, Data, and Integrations
+- API and webhook integrations across multiple platforms  
+- JSON payload processing and data transformation  
+- Tracking design, UTM governance, and attribution alignment  
+- DNS configuration (SPF, DKIM, DMARC)  
+- System interoperability and technical troubleshooting  
 
----
-
-## 📁 Featured Case Studies (Repos)
-
-### 📌 CRM Migration Case Study (Mailchimp → Klaviyo)
-End-to-end migration including data normalization, property mapping, flows, DNS auth & warming.  
-**Repo:** _coming soon_
-
-### 📌 Email Lifecycle Flow Architecture
-Welcome <> Post-Purchase <> Winback ecosystem built for ecommerce & service brands.  
-**Repo:** _coming soon_
-
-### 📌 Technical Integration & Webhook Examples
-Sample payloads, automation patterns, API integration notes.  
-**Repo:** _coming soon_
-
-### 📌 Marketing Analytics & Reporting Frameworks
-Segmentation insights, UTM structures, dashboards & performance reporting workflows.  
-**Repo:** _coming soon_
+### AI and Machine Learning (Applied)
+- Predictive segmentation and behavioral modeling  
+- Workflow optimization using AI/ML insights  
+- Data preparation and automated decisioning logic  
+- Applying ML fundamentals to improve automation efficiency  
+- Technical integration of AI tools where appropriate  
 
 ---
 
-## 🛠 Skills
+## Featured Case Studies
+
+### CRM Migration Case Study (Mailchimp → Klaviyo)
+A complete migration including data cleaning, property mapping, lifecycle flow reconstruction, DNS authentication, and deliverability improvements.  
+**Repo:** _coming soon_
+
+### Email Lifecycle System Architecture
+A full lifecycle automation ecosystem built for engagement, retention, and long-term customer value.  
+**Repo:** _coming soon_
+
+### Technical Integration & Automation Patterns
+API workflows, webhook processing, JSON payload mapping, and technical automation design.  
+**Repo:** _coming soon_
+
+### Analytics & Data Frameworks
+Attribution structures, reporting logic, UTM governance, and segmentation performance modeling.  
+**Repo:** _coming soon_
+
+---
+
+## Skills
+
+### Development & Engineering
+Python • JavaScript • SQL • HTML/CSS • APIs • Webhooks • Linux • Data Modeling • Automation Scripts • JSON • Git
 
 ### CRM & Email Platforms
 Klaviyo • Mailchimp • HubSpot • Salesforce Marketing Cloud (foundational) • Shopify
 
-### Technical
-Python • SQL • JSON • Webhooks • APIs • Linux • DNS (SPF, DKIM, DMARC) • HTML/CSS • AI/ML fundamentals
+### Technical / Systems
+DNS (SPF, DKIM, DMARC) • Event Tracking • Integrations • Data Pipelines • Attribution • QA & Testing
 
-### Marketing
-Segmentation • A/B Testing • Analytics • Attribution • UTM Governance • CRO Insights
+### AI/ML Foundations
+Predictive modeling concepts • Data preprocessing • Applied ML for segmentation and workflow optimization
 
-### Project Leadership
-Scrum Master • Roadmapping • Client communication • Multi-client environment experience
-
----
-
-## 🎓 Certifications
-- **Klaviyo Product Certification**  
-- **Scrum Master Certification**  
-- **Google Analytics Certification**  
-- **Fanshawe AI/ML Program (President’s Honour List)**  
+### Leadership & Delivery
+Scrum Master • Project Roadmapping • Stakeholder Communication • Multi-Client Management • Technical Documentation
 
 ---
 
-## 📫 Connect With Me
-
-- **Email:** tftjack@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/jack-ivanisevic/
-
-If you're interested in CRM migrations, lifecycle automation, or hybrid marketing-technical projects, I’d love to connect.
+## Certifications
+- Klaviyo Product Certification  
+- Scrum Master Certification  
+- Google Analytics Certification  
+- Fanshawe College – AI/ML Program (President’s Honour List)
 
 ---
 
-## ⭐ Fun Fact
+## Contact
 
-CRM, email marketing, and coding are so enjoyable for me that they rarely feel like “work” — I genuinely love building smart, automated systems that run efficiently and at scale.
+- Email: **tftjack@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/jack-ivanisevic/**  
+
+---
+
+## Fun Fact
+
+CRM, email marketing, and coding are genuinely so enjoyable for me that they rarely feel like work. As an old saying goes, “Find a job you enjoy doing, and you will never work a day in your life.” — often credited to Mark Twain
+
+
