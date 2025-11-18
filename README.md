@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I’m a senior-level **CRM & Email Marketing Contractor** with a hybrid background spanning:
 
@@ -24,7 +24,7 @@ I’m passionate about clean data, elegant workflows, and systems that deliver v
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 ### 📩 CRM & Email Automation
 - Lifecycle design (Welcome, Abandon Cart, Browse, Post-Purchase, Winback, Sunset)  
