@@ -5,7 +5,7 @@ I work at the intersection of CRM strategy, lifecycle automation, technical engi
 I build reliable systems, clean data structures, optimized lifecycle programs, and automation workflows that help organizations scale with clarity and precision.
 
 My background spans CRM/email platforms, custom automation, API integrations, full-stack concepts, data modeling, and applied AI/ML.  
-I bridge the gap between **marketing and engineering** — delivering solutions that are functional, maintainable, and measurable.
+I bridge the gap between marketing and engineering — delivering solutions that are functional, maintainable, and measurable.
 
 ---
 
@@ -61,8 +61,10 @@ I bridge the gap between **marketing and engineering** — delivering solutions 
 
 ---
 
-# <details>
+<details>
 <summary><strong>Full Tech Stack (Click to Expand)</strong></summary>
+
+<br>
 
 ### Languages
 Python  
@@ -100,7 +102,7 @@ UI component patterns for dashboards & internal tools
 MySQL  
 MariaDB  
 SQLite  
-PostgreSQL (foundational)
+PostgreSQL (foundational)  
 
 ---
 
