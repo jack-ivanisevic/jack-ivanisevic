@@ -2,23 +2,25 @@
 <h3 align="center">CRM, Email Marketing & Technical Automation Specialist</h3>
 
 <p align="center">
-  Bringing together CRM strategy, email marketing, platform migrations, and technical automation to build systems that scale.
+  Platform Migrations • Lifecycle Strategy • Data, Coding & Integrations
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m a senior-level **CRM & Email Marketing Contractor** with a hybrid background across:
+I’m a senior-level **CRM & Email Marketing Contractor** with a hybrid background spanning:
 
-- **Email marketing + lifecycle strategy**  
+- **Email marketing & lifecycle strategy**  
 - **CRM platform migrations (Mailchimp → Klaviyo, SFMC familiarity)**  
-- **Technical data work, integrations & automations**  
+- **Technical automation, data workflows & integrations**  
 - **Marketing analytics, tracking & optimization**  
 
-I bridge the gap between **marketing** and **engineering**, making it easier for brands to manage audiences, automate communication, and optimize performance across their digital stack.
+I bridge the gap between **marketing** and **engineering**, making it easier for brands to manage audiences, automate communication, and improve performance across their digital stack.
 
-I’m passionate about clean data, elegant workflows, and email systems that actually deliver value.
+I also bring formal **AI/ML training** that strengthens my ability to build predictive segments, scoring models, and intelligent automation flows.
+
+I’m passionate about clean data, elegant workflows, and systems that deliver value at scale.
 
 ---
 
@@ -29,28 +31,29 @@ I’m passionate about clean data, elegant workflows, and email systems that act
 - Advanced segmentation & personalization  
 - Consent management (CASL, CAN-SPAM)  
 - Deliverability, DNS/SPF/DKIM, domain warming  
-- A/B testing, performance optimization, analytics  
+- A/B testing, optimization & analytics  
 
 ### 🔄 Platform Migrations
-- Data extraction, cleaning, mapping, and import  
+- Data extraction, cleaning, normalization & mapping  
 - Rebuilding flows, templates, segments & forms  
-- Recreating tracking, UTMs, naming conventions & property structure  
+- UTM strategy, naming conventions & property governance  
 - DNS setup & authentication  
-- QA, testing & performance validation  
+- QA, end-to-end testing & performance validation  
 
 ### 🛠 Technical & Automation
-- APIs, webhooks, JSON payloads  
+- APIs, webhooks & JSON payloads  
 - Python & SQL for data processing  
 - Event tracking & UTM governance  
 - DNS, SPF, DKIM, DMARC configuration  
 - Linux tooling, analytics setup, integration troubleshooting  
+- AI/ML fundamentals for segmentation & automation logic  
 
 ---
 
 ## 📁 Featured Case Studies (Repos)
 
 ### 📌 CRM Migration Case Study (Mailchimp → Klaviyo)
-End-to-end project including data normalization, property mapping, flows, DNS auth & warming.  
+End-to-end migration including data normalization, property mapping, flows, DNS auth & warming.  
 **Repo:** _coming soon_
 
 ### 📌 Email Lifecycle Flow Architecture
@@ -62,7 +65,7 @@ Sample payloads, automation patterns, API integration notes.
 **Repo:** _coming soon_
 
 ### 📌 Marketing Analytics & Reporting Frameworks
-Segmentation insights, UTM structures, dashboards, and performance reporting workflows.  
+Segmentation insights, UTM structures, dashboards & performance reporting workflows.  
 **Repo:** _coming soon_
 
 ---
@@ -73,10 +76,10 @@ Segmentation insights, UTM structures, dashboards, and performance reporting wor
 Klaviyo • Mailchimp • HubSpot • Salesforce Marketing Cloud (foundational) • Shopify
 
 ### Technical
-Python • SQL • JSON • Webhooks • APIs • Linux • DNS (SPF, DKIM, DMARC) • HTML/CSS for email
+Python • SQL • JSON • Webhooks • APIs • Linux • DNS (SPF, DKIM, DMARC) • HTML/CSS • AI/ML fundamentals
 
 ### Marketing
-Segmentation • A/B Testing • Performance Analytics • Attribution • UTM Governance • CRO Insights
+Segmentation • A/B Testing • Analytics • Attribution • UTM Governance • CRO Insights
 
 ### Project Leadership
 Scrum Master • Roadmapping • Client communication • Multi-client environment experience
@@ -86,7 +89,8 @@ Scrum Master • Roadmapping • Client communication • Multi-client environme
 ## 🎓 Certifications
 - **Klaviyo Product Certification**  
 - **Scrum Master Certification**  
-- **Google Analytics Certification**
+- **Google Analytics Certification**  
+- **Fanshawe AI/ML Program (President’s Honour List)**  
 
 ---
 
@@ -101,6 +105,4 @@ If you're interested in CRM migrations, lifecycle automation, or hybrid marketin
 
 ## ⭐ Fun Fact
 
-CRM, email marketing, and coding are so enjoyable for me that they rarely feel like “work” — I genuinely love building systems that run smarter and more efficiently.
-
-
+CRM, email marketing, and coding are so enjoyable for me that they rarely feel like “work” — I genuinely love building smart, automated systems that run efficiently and at scale.
