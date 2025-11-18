@@ -1,50 +1,68 @@
-# Hi — I'm Jack Ivanisevic  
-### CRM, Email Automation & Technical Engineering Specialist
+<h1 align="center">Hi — I'm Jack Ivanisevic</h1>
+<h3 align="center">CRM, Email Automation & Technical Engineering Specialist</h3>
 
-I work at the intersection of CRM strategy, lifecycle automation, technical engineering, and data-driven problem-solving. I build reliable systems, clean data structures, optimized lifecycle programs, and automation workflows that help organizations scale with clarity and precision.
+I work at the intersection of CRM strategy, lifecycle automation, technical engineering, and data-driven development.  
+I build reliable systems, clean data structures, optimized lifecycle programs, and automation workflows that help organizations scale with clarity and precision.
 
-My background spans CRM/email platforms, custom automation, API integrations, data modeling, full-stack concepts, and applied AI/ML. I bridge the gap between marketing and engineering — creating solutions that are functional, maintainable, and measurable.
+My background spans CRM/email platforms, custom automation, API integrations, full-stack concepts, data modeling, and applied AI/ML.  
+I bridge the gap between **marketing and engineering** — delivering solutions that are functional, maintainable, and measurable.
 
 ---
 
 ## Skills Matrix
 
 ### CRM & Email Marketing
-- Lifecycle automation (welcome, cart, post-purchase, winback, sunset)
-- Segmentation strategy & personalization
-- Deliverability, DNS (SPF/DKIM/DMARC), domain warming
-- A/B testing, performance analytics, UTM governance
-- CRM migrations (Mailchimp → Klaviyo, SFMC familiarity)
+- Lifecycle automation: welcome, cart, post-purchase, winback, sunset  
+- Segmentation strategy & personalization  
+- Deliverability, DNS (SPF/DKIM/DMARC), domain warming  
+- A/B testing, performance analytics, UTM governance  
+- CRM migrations (Mailchimp → Klaviyo, SFMC familiarity)  
 - Consent compliance (CASL, CAN-SPAM)
 
 ### Technical / Engineering
-- Python development (automation, data processing, API services)
-- SQL querying and schema design
-- REST API design and system integration
-- JSON parsing, normalization, transformation workflows
-- Linux tooling & command-line automations
+- Python development (automation, data processing, API services)  
+- SQL querying and schema design  
+- REST API design & system integration  
+- JSON parsing, normalization, transformation  
+- Linux tooling & command-line operations  
 - Systems architecture & documentation
 
 ### AI / Machine Learning
-- Applied ML workflows (classification, preprocessing, evaluation)
-- Notebook-based experimentation (Jupyter)
-- Model interpretation: accuracy, precision, recall, F1
-- Data pipeline structure & reproducibility
+- ML workflows (classification, preprocessing, evaluation)  
+- Jupyter-based experimentation  
+- Model interpretation: accuracy, precision, recall, F1  
+- Data pipelines & reproducibility  
 - Feature engineering & dataset preparation
 
 ### Full-Stack & Application Design
-- Backend architecture & service-layer patterns
-- CRUD operations, validation, and error handling
-- Lightweight UI logic for dashboards & internal tools
-- Modular project structure & maintainable code organization
+- Backend architecture & service-layer patterns  
+- CRUD operations, validation & error handling  
+- UI logic for dashboards & internal tools  
+- Modular, maintainable code organization
 
 ### LMS / Learning Systems
-- Moodle module customization & extension
-- Activity templates, workflows, and automated learning paths
-- Instructional design alignment with learning outcomes
-- Learner analytics, reporting, and performance insights
+- Moodle module customization & extension  
+- Activity templates, automated learning paths  
+- Instructional design alignment  
+- Learner analytics & reporting
 
-## Tech Stack
+---
+
+## High-Level Tech Summary
+
+**Languages:** Python, PHP, JavaScript, SQL, TypeScript (light), Bash  
+**Backend:** FastAPI, Flask, Django (foundational), Node.js, Express.js  
+**Frontend:** React, React Native  
+**Databases:** MySQL, MariaDB, SQLite, PostgreSQL (foundational)  
+**CRM Platforms:** Klaviyo, Mailchimp, HubSpot, SFMC (foundational)  
+**Data Workflows:** APIs, Webhooks, JSON/CSV, data modeling, UTM governance  
+**DevOps:** Linux, Docker, Git/GitHub, GitHub Actions, Nginx, Apache  
+**AI/ML Tools:** Jupyter, scikit-learn, ChatGPT, Claude, Perplexity, Copilot  
+
+---
+
+# <details>
+<summary><strong>Full Tech Stack (Click to Expand)</strong></summary>
 
 ### Languages
 Python  
@@ -62,6 +80,7 @@ FastAPI
 Django (foundational)  
 Express.js (intermediate usage)  
 Node.js (intermediate usage)  
+Flask  
 Pandas  
 NumPy  
 scikit-learn  
@@ -73,7 +92,7 @@ Requests (API workflows)
 ### Frontend & UI Frameworks
 React  
 React Native  
-Basic UI component patterns for dashboard-style applications  
+UI component patterns for dashboards & internal tools  
 
 ---
 
@@ -81,20 +100,20 @@ Basic UI component patterns for dashboard-style applications
 MySQL  
 MariaDB  
 SQLite  
-PostgreSQL (foundational)  
+PostgreSQL (foundational)
 
 ---
 
 ### Data & Integration Workflows
-REST API design and integration  
-Webhook design and ingestion  
+REST API design & integration  
+Webhook ingestion & design  
 JSON parsing, normalization, flattening  
-CSV/Excel data cleaning and transformation  
-Event-driven data workflows  
-Schema planning and data modeling  
-Cross-system data synchronization patterns  
-UTM governance and analytics tracking structure  
-Versioned data workflows for CRM migrations  
+CSV/Excel cleaning & transformation  
+Event-driven workflow logic  
+Schema planning & data modeling  
+Cross-system data synchronization  
+UTM governance & analytics tracking  
+Versioned workflows for CRM migrations  
 
 ---
 
@@ -103,68 +122,70 @@ Klaviyo
 Mailchimp  
 HubSpot  
 Salesforce Marketing Cloud (foundational)  
-Moodle LMS (module development & workflow design)  
-Shopify (API and data layer concepts)  
+Moodle LMS  
+Shopify API & data layer concepts  
 
 ---
 
 ### Email & Deliverability Engineering
-DNS configuration for SPF, DKIM, DMARC  
-Send domain warmup and authentication setup  
+SPF/DKIM/DMARC configuration  
+Send domain warmup & authentication  
 Inbox placement troubleshooting  
-Suppression lists & complaint monitoring  
+Suppression & complaint monitoring  
 List hygiene workflows  
-Sending IP/domain reputation strategy  
-Compliance alignment (CASL, CAN-SPAM)  
+IP/domain reputation strategy  
+CASL & CAN-SPAM compliance  
 
 ---
 
 ### DevOps, Tooling & System Operations
 Linux (Ubuntu)  
-Docker (containerization; foundational usage)  
+Docker (foundational)  
 Nginx (basic configuration)  
 Apache (basic configuration)  
 Git & GitHub  
-GitHub Actions (basic CI automation)  
-SSH-based server access & remote CLI management  
-Systemd (service management, logs, restarts)  
-Virtual environments & dependency isolation (Python venv, pip, npm)  
+GitHub Actions (basic CI)  
+SSH server operations  
+Systemd logs & service management  
+Virtual environments & node/python dependency isolation  
 
 ---
 
 ### Backend Workflow Tools
-Postman – API testing, variables, collections  
-cURL – CLI-based HTTP testing and debugging  
-DBeaver – cross-database management and SQL execution  
-phpMyAdmin – lightweight database administration  
-Git CLI – branching, version control, workflow management  
-Shell utilities for automation and environment setup  
+Postman – API testing & automation  
+cURL – CLI-based HTTP testing  
+DBeaver – cross-database management  
+phpMyAdmin – MySQL/MariaDB admin  
+Git CLI – branching & workflow management  
+Shell utilities for automation  
 
 ---
 
 ### AI, ML & Automation Tools
-ChatGPT – solution design, coding assistance, automation prototyping  
-Claude – documentation, analysis, complex reasoning workflows  
-Perplexity – research, fact validation, data discovery  
-GitHub Copilot – AI pair programming and code acceleration  
-ML workflow tools – preprocessing, model evaluation, pipelines  
-Feature engineering & notebook-based experimentation  
+ChatGPT – solution design, coding, automation prototyping  
+Claude – documentation & complex reasoning  
+Perplexity – research & fact validation  
+GitHub Copilot – AI-assisted development  
+ML tools – preprocessing, evaluation, pipelines  
+Feature engineering & experimentation  
 
 ---
 
 ### Cloud & Deployment (Foundational)
 Dockerized dev environments  
 AWS (S3, IAM basics)  
-DigitalOcean
-Environment-based configuration (dev/stage/prod patterns)  
+DigitalOcean  
+Environment-based configuration patterns  
 
 ---
 
 ### Security & Authentication (Foundational)
-JWT / token-based authentication  
+JWT / token authentication  
 OAuth concepts  
-Role-based access control (RBAC)  
+RBAC (role-based access control)  
 Secure API request handling  
+
+</details>
 
 ---
 
@@ -174,52 +195,52 @@ Secure API request handling
 End-to-end migration including data normalization, segmentation structure, flow rebuilds, DNS authentication, and deliverability improvements.  
 **Repo:** https://github.com/jack-ivanisevic/crm-migration-case-study
 
-### Lifecycle Automation Architecture  
-Comprehensive automation ecosystem covering welcome, cart, browse, post-purchase, winback, and reactivation flows with segmentation and timing strategy.  
+### Lifecycle Automation Architecture
+Ecosystem of welcome, cart, browse, post-purchase, winback, and reactivation flows built with segmentation logic and timing strategy.  
 **Repo:** https://github.com/jack-ivanisevic/lifecycle-automation-architecture
 
-### Technical Integrations & Webhooks  
-Patterns for API logic, data ingestion, event handling, and JSON-based workflow design across systems.  
+### Technical Integrations & Webhooks
+Patterns for API logic, data ingestion, event handling, and JSON workflow design.  
 **Repo:** https://github.com/jack-ivanisevic/technical-integrations-and-webhooks
 
-### Analytics & Data Frameworks  
-Data modeling, UTM governance, performance dashboards, and reporting workflows for insight-driven CRM operations.  
+### Analytics & Data Frameworks
+Modeling, UTM governance, dashboards, and reporting frameworks for CRM insights.  
 **Repo:** https://github.com/jack-ivanisevic/analytics-and-data-frameworks
 
 ---
 
 ## Additional Projects
 
-### Cancer Cell Classification – ML Case Study  
-Machine learning project demonstrating preprocessing, classification logic, model evaluation, and applied ML workflow.  
-**Repo:** https://github.com/jack-ivanisevic/cancer-cell-classification-ml-project
+- **Cancer Cell Classification – ML Case Study**  
+  Applied ML pipeline: preprocessing, classification, evaluation  
+  https://github.com/jack-ivanisevic/cancer-cell-classification-ml-project
 
-### Python Automation Scripts Pack  
-Practical scripts for CSV cleaning, JSON normalization, API fetching, and workflow utilities in CRM/data operations.  
-**Repo:** https://github.com/jack-ivanisevic/python-automation-scripts-pack
+- **Python Automation Scripts Pack**  
+  CSV cleaning, JSON normalization, API utilities  
+  https://github.com/jack-ivanisevic/python-automation-scripts-pack
 
-### Mini CRM Dashboard App (Concept)  
-A full-stack CRM dashboard concept with clear data model, backend logic, and dashboard workflow patterns.  
-**Repo:** https://github.com/jack-ivanisevic/mini-crm-dashboard-app
+- **Mini CRM Dashboard App (Concept)**  
+  Full-stack CRM dashboard architecture  
+  https://github.com/jack-ivanisevic/mini-crm-dashboard-app
 
-### AI-Assisted Email Subject Line Generator (Concept)  
-Rule-based and AI-inspired system for generating optimized subject lines for lifecycle and campaign scenarios.  
-**Repo:** https://github.com/jack-ivanisevic/ai-email-subject-line-generator
+- **AI-Assisted Email Subject Line Generator**  
+  Rule-based + AI-inspired subject line logic  
+  https://github.com/jack-ivanisevic/ai-email-subject-line-generator
 
-### LMS Module Development Case Study  
-Learning module templates, automation logic, workflow design, and LMS system extension (Moodle) case study.  
-**Repo:** https://github.com/jack-ivanisevic/lms-module-development-case-study
+- **LMS Module Development Case Study**  
+  Moodle workflows, automation, learning path logic  
+  https://github.com/jack-ivanisevic/lms-module-development-case-study
 
-### Inventory Management System Architecture  
-High-level architecture for a scalable asset tracking and inventory system including data models, workflows, and API structure.  
-**Repo:** https://github.com/jack-ivanisevic/inventory-management-system-architecture
+- **Inventory Management System Architecture**  
+  API structure, data model, workflow planning  
+  https://github.com/jack-ivanisevic/inventory-management-system-architecture
 
 ---
 
 ## Fun Fact
 
 CRM, email automation, and coding are so enjoyable to me that they rarely feel like “work.”  
-I’ve always resonated with the idea often attributed to Confucius:  
+I’ve always resonated with the quote often attributed to Confucius:  
 **“Choose a job you love, and you’ll never work a day in your life.”**
 
 ---
