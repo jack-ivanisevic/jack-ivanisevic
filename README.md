@@ -1,3 +1,7 @@
+
+<img width="100%" height="auto" alt="GitHubHeader" src="https://github.com/user-attachments/assets/36286c68-51d0-4e75-bb7e-2942b6cb077e" />
+
+
 <h1 align="center">Hi — I'm Jack Ivanisevic</h1>
 <h3 align="center">CRM, Email Automation & Technical Engineering Specialist</h3>
 
