@@ -44,6 +44,128 @@ My background spans CRM/email platforms, custom automation, API integrations, da
 - Instructional design alignment with learning outcomes
 - Learner analytics, reporting, and performance insights
 
+## Tech Stack
+
+### Languages
+Python  
+PHP  
+JavaScript  
+TypeScript (light usage)  
+SQL  
+HTML / CSS  
+Bash / Shell scripting  
+
+---
+
+### Backend Frameworks & Libraries
+FastAPI  
+Django (foundational)  
+Express.js (intermediate usage)  
+Node.js (intermediate usage)  
+Pandas  
+NumPy  
+scikit-learn  
+Jupyter Notebooks  
+Requests (API workflows)  
+
+---
+
+### Frontend & UI Frameworks
+React  
+React Native  
+Basic UI component patterns for dashboard-style applications  
+
+---
+
+### Databases
+MySQL  
+MariaDB  
+SQLite  
+PostgreSQL (foundational)  
+
+---
+
+### Data & Integration Workflows
+REST API design and integration  
+Webhook design and ingestion  
+JSON parsing, normalization, flattening  
+CSV/Excel data cleaning and transformation  
+Event-driven data workflows  
+Schema planning and data modeling  
+Cross-system data synchronization patterns  
+UTM governance and analytics tracking structure  
+Versioned data workflows for CRM migrations  
+
+---
+
+### Platforms & CRM Tools
+Klaviyo  
+Mailchimp  
+HubSpot  
+Salesforce Marketing Cloud (foundational)  
+Moodle LMS (module development & workflow design)  
+Shopify (API and data layer concepts)  
+
+---
+
+### Email & Deliverability Engineering
+DNS configuration for SPF, DKIM, DMARC  
+Send domain warmup and authentication setup  
+Inbox placement troubleshooting  
+Suppression lists & complaint monitoring  
+List hygiene workflows  
+Sending IP/domain reputation strategy  
+Compliance alignment (CASL, CAN-SPAM)  
+
+---
+
+### DevOps, Tooling & System Operations
+Linux (Ubuntu)  
+Docker (containerization; foundational usage)  
+Nginx (basic configuration)  
+Apache (basic configuration)  
+Git & GitHub  
+GitHub Actions (basic CI automation)  
+SSH-based server access & remote CLI management  
+Systemd (service management, logs, restarts)  
+Virtual environments & dependency isolation (Python venv, pip, npm)  
+
+---
+
+### Backend Workflow Tools
+Postman – API testing, variables, collections  
+cURL – CLI-based HTTP testing and debugging  
+DBeaver – cross-database management and SQL execution  
+phpMyAdmin – lightweight database administration  
+Git CLI – branching, version control, workflow management  
+Shell utilities for automation and environment setup  
+
+---
+
+### AI, ML & Automation Tools
+ChatGPT – solution design, coding assistance, automation prototyping  
+Claude – documentation, analysis, complex reasoning workflows  
+Perplexity – research, fact validation, data discovery  
+GitHub Copilot – AI pair programming and code acceleration  
+ML workflow tools – preprocessing, model evaluation, pipelines  
+Feature engineering & notebook-based experimentation  
+
+---
+
+### Cloud & Deployment (Foundational)
+Dockerized dev environments  
+AWS (S3, IAM basics)  
+DigitalOcean
+Environment-based configuration (dev/stage/prod patterns)  
+
+---
+
+### Security & Authentication (Foundational)
+JWT / token-based authentication  
+OAuth concepts  
+Role-based access control (RBAC)  
+Secure API request handling  
+
 ---
 
 ## Featured Case Studies
