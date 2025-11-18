@@ -4,7 +4,7 @@
 I work at the intersection of CRM strategy, lifecycle automation, technical engineering, and data-driven development.  
 I build reliable systems, clean data structures, optimized lifecycle programs, and automation workflows that help organizations scale with clarity and precision.
 
-My background spans CRM/email platforms, custom automation, API integrations, full-stack concepts, data modeling, and applied AI/ML. 
+My background spans CRM/email platforms, custom automation, API integrations, full-stack concepts, data modeling, and applied AI/ML.  
 I bridge the gap between marketing and engineering — delivering solutions that are functional, maintainable, and measurable.
 
 ---
@@ -203,11 +203,11 @@ Ecosystem of welcome, cart, browse, post-purchase, winback, and reactivation flo
 
 ### Technical Integrations & Webhooks
 Patterns for API logic, data ingestion, event handling, and JSON workflow design.  
-**Repo:** https://github.com/jack-ivanisevic/technical-integrations-and-webhooks
+**Repo:** https://github.com/jack-ivanisevic/technical-integrations-webhooks
 
 ### Analytics & Data Frameworks
 Modeling, UTM governance, dashboards, and reporting frameworks for CRM insights.  
-**Repo:** https://github.com/jack-ivanisevic/analytics-and-data-frameworks
+**Repo:** https://github.com/jack-ivanisevic/analytics-data-frameworks
 
 ---
 
@@ -215,15 +215,15 @@ Modeling, UTM governance, dashboards, and reporting frameworks for CRM insights.
 
 - **Cancer Cell Classification – ML Case Study**  
   Applied ML pipeline: preprocessing, classification, evaluation  
-  https://github.com/jack-ivanisevic/cancer-cell-classification-ml-project
+  https://github.com/jack-ivanisevic/ml-cancer-cell-classification
 
 - **Python Automation Scripts Pack**  
   CSV cleaning, JSON normalization, API utilities  
-  https://github.com/jack-ivanisevic/python-automation-scripts-pack
+  https://github.com/jack-ivanisevic/python-automation-scripts
 
 - **Mini CRM Dashboard App (Concept)**  
   Full-stack CRM dashboard architecture  
-  https://github.com/jack-ivanisevic/mini-crm-dashboard-app
+  https://github.com/jack-ivanisevic/mini-crm-dashboard-architecture
 
 - **AI-Assisted Email Subject Line Generator**  
   Rule-based + AI-inspired subject line logic  
@@ -231,11 +231,11 @@ Modeling, UTM governance, dashboards, and reporting frameworks for CRM insights.
 
 - **LMS Module Development Case Study**  
   Moodle workflows, automation, learning path logic  
-  https://github.com/jack-ivanisevic/lms-module-development-case-study
+  https://github.com/jack-ivanisevic/lms-module-development
 
 - **Inventory Management System Architecture**  
   API structure, data model, workflow planning  
-  https://github.com/jack-ivanisevic/inventory-management-system-architecture
+  https://github.com/jack-ivanisevic/inventory-system-architecture
 
 ---
 
