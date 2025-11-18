@@ -76,22 +76,42 @@ Attribution structures, reporting logic, UTM governance, and segmentation perfor
 
 ---
 
-## Skills
+## Skills Matrix
 
-### Development & Engineering
-Python • JavaScript • SQL • HTML/CSS • APIs • Webhooks • Linux • Data Modeling • Automation Scripts • JSON • Git
+### CRM & Email Marketing
+- Lifecycle automation (welcome, cart, post-purchase, winback, sunset)
+- Segmentation strategy & personalization
+- Deliverability, DNS (SPF/DKIM/DMARC), domain warming
+- A/B testing, performance analytics, UTM governance
+- CRM migrations (Mailchimp → Klaviyo, SFMC familiarity)
+- Consent compliance (CASL, CAN-SPAM)
 
-### CRM & Email Platforms
-Klaviyo • Mailchimp • HubSpot • Salesforce Marketing Cloud (foundational) • Shopify
+### Technical / Engineering
+- Python development (automation, data processing, API services)
+- SQL querying and schema design
+- REST API design and integration workflows
+- JSON parsing, normalization, and transformation
+- Linux tooling, command-line workflows, environment setup
+- System architecture planning and documentation
 
-### Technical / Systems
-DNS (SPF, DKIM, DMARC) • Event Tracking • Integrations • Data Pipelines • Attribution • QA & Testing
+### AI / Machine Learning
+- Applied ML workflows (classification, preprocessing, evaluation)
+- Feature engineering & model comparison
+- Notebook-based experimentation (Jupyter)
+- Data pipeline structure and reproducibility
+- Model assessment (accuracy, precision, recall, F1)
 
-### AI/ML Foundations
-Predictive modeling concepts • Data preprocessing • Applied ML for segmentation and workflow optimization
+### Full-Stack & Application Design
+- Backend architecture patterns & service layers
+- CRUD operations, routing, validation, error handling
+- Lightweight UI structures for internal tools and dashboards
+- Modular code structure and maintainable project layout
 
-### Leadership & Delivery
-Scrum Master • Project Roadmapping • Stakeholder Communication • Multi-Client Management • Technical Documentation
+### LMS / Learning Systems
+- Moodle module customization and extensions
+- Activity templates, workflows, and automation
+- Instructional design alignment with learning outcomes
+- Learner analytics and engagement tracking
 
 ---
 
