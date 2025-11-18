@@ -1,9 +1,5 @@
 
-<img width="100%" height="auto" alt="GitHubHeader" src="https://github.com/user-attachments/assets/36286c68-51d0-4e75-bb7e-2942b6cb077e" />
-
-
-<h1 align="center">Hi — I'm Jack Ivanisevic</h1>
-<h3 align="center">CRM, Email Automation & Technical Engineering Specialist</h3>
+<img width="1920" height="528" alt="JIVAN_GITHUB-02" src="https://github.com/user-attachments/assets/c3d2107d-4528-4b55-b4cf-c72d5192a02e" />
 
 I work at the intersection of CRM strategy, lifecycle automation, technical engineering, and data-driven development.  
 I build reliable systems, clean data structures, optimized lifecycle programs, and automation workflows that help organizations scale with clarity and precision.
