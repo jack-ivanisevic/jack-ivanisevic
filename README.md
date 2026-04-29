@@ -182,7 +182,7 @@ Secure API request handling
 
 ### Web & Application Development
 - Developed and maintained WordPress and custom web applications  
-- Built backend logic and integrations connecting application layers to external services  
+- Built backend logic and integrations to connect application layers with external services 
 - Delivered full-stack solutions across PHP, JavaScript, and Python-based environments  
 
 ---
