@@ -1,6 +1,4 @@
-<img width="566" height="156" alt="Jack_Header02" src="https://github.com/user-attachments/assets/ea2b4699-e375-426f-9deb-653d17be2638" />
-
-<img width="1920" height="528" alt="JIVAN_GITHUB-02" src="https://github.com/user-attachments/assets/c3d2107d-4528-4b55-b4cf-c72d5192a02e" />
+<img width="1920" height="588" alt="Jack_LI_Header04" src="https://github.com/user-attachments/assets/3b0b1f90-def3-45d0-b210-265702bcdcde" />
 
 I work at the intersection of CRM strategy, lifecycle automation, technical engineering, and data-driven development.  
 I build reliable systems, clean data structures, optimized lifecycle programs, and automation workflows that help organizations scale with clarity and precision.
