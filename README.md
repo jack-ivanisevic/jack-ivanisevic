@@ -1,61 +1,43 @@
 <img width="1920" height="588" alt="Jack_LI_Header04" src="https://github.com/user-attachments/assets/3b0b1f90-def3-45d0-b210-265702bcdcde" />
+<br>
+I build and fix backend systems, APIs, and integrations that support real-world business operations — especially when systems are messy, unreliable, or not scaling.<br><br>
 
-I work at the intersection of CRM strategy, lifecycle automation, technical engineering, and data-driven development.  
-I build reliable systems, clean data structures, optimized lifecycle programs, and automation workflows that help organizations scale with clarity and precision.
+My work focuses on stabilizing applications, connecting systems correctly, and improving how data flows between platforms, including CRM and lifecycle marketing systems where they impact revenue and performance.<br><br>
 
-My background spans CRM/email platforms, custom automation, API integrations, full-stack concepts, data modeling, and applied AI/ML. I bridge the gap between marketing and engineering — delivering solutions that are functional, maintainable, and measurable.
+I work across PHP, WordPress, Node.js, Python (FastAPI), and SQL-based systems to deliver reliable, production-ready solutions.
 
 ---
 
 ## Skills Matrix
 
-### CRM & Email Marketing
+### Backend Systems & Integrations
+- REST API design & system integration  
+- JSON parsing, normalization, transformation  
+- SQL querying and schema design  
+- Linux tooling & command-line operations  
+- Systems architecture & documentation  
+
+### Development & Architecture
+- Python development (automation, data processing, API services)  
+- Backend architecture & service-layer patterns  
+- CRUD operations, validation & error handling  
+- UI logic for dashboards & internal tools  
+- Modular, maintainable code organization  
+
+### CRM & Automation Systems
 - Lifecycle automation: welcome, cart, post-purchase, winback, sunset  
 - Segmentation strategy & personalization  
 - Deliverability, DNS (SPF/DKIM/DMARC), domain warming  
 - A/B testing, performance analytics, UTM governance  
 - CRM migrations (Mailchimp → Klaviyo, SFMC familiarity)  
-- Consent compliance (CASL, CAN-SPAM)
+- Consent compliance (CASL, CAN-SPAM)  
 
-### Technical / Engineering
-- Python development (automation, data processing, API services)  
-- SQL querying and schema design  
-- REST API design & system integration  
-- JSON parsing, normalization, transformation  
-- Linux tooling & command-line operations  
-- Systems architecture & documentation
-
-### AI / Machine Learning
+### AI & Data Processing
 - ML workflows (classification, preprocessing, evaluation)  
 - Jupyter-based experimentation  
 - Model interpretation: accuracy, precision, recall, F1  
 - Data pipelines & reproducibility  
-- Feature engineering & dataset preparation
-
-### Full-Stack & Application Design
-- Backend architecture & service-layer patterns  
-- CRUD operations, validation & error handling  
-- UI logic for dashboards & internal tools  
-- Modular, maintainable code organization
-
-### LMS / Learning Systems
-- Moodle module customization & extension  
-- Activity templates, automated learning paths  
-- Instructional design alignment  
-- Learner analytics & reporting
-
----
-
-## High-Level Tech Summary
-
-**Languages:** Python, PHP, JavaScript, SQL, TypeScript (light), Bash  
-**Backend:** FastAPI, Flask, Django (foundational), Node.js, Express.js  
-**Frontend:** React, React Native  
-**Databases:** MySQL, MariaDB, SQLite, PostgreSQL (foundational)  
-**CRM Platforms:** Klaviyo, Mailchimp, HubSpot, SFMC (foundational)  
-**Data Workflows:** APIs, Webhooks, JSON/CSV, data modeling, UTM governance  
-**DevOps:** Linux, Docker, Git/GitHub, GitHub Actions, Nginx, Apache  
-**AI/ML Tools:** Jupyter, scikit-learn, ChatGPT, Claude, Perplexity, Copilot  
+- Feature engineering & dataset preparation  
 
 ---
 
@@ -104,26 +86,24 @@ PostgreSQL (foundational)
 
 ---
 
-### Data & Integration Workflows
+### Backend Systems & Integrations
 REST API design & integration  
 Webhook ingestion & design  
-JSON parsing, normalization, flattening  
-CSV/Excel cleaning & transformation  
+JSON parsing, normalization, transformation  
 Event-driven workflow logic  
 Schema planning & data modeling  
 Cross-system data synchronization  
-UTM governance & analytics tracking  
-Versioned workflows for CRM migrations  
 
 ---
 
-### Platforms & CRM Tools
+### CRM & Automation Systems
 Klaviyo  
 Mailchimp  
 HubSpot  
 Salesforce Marketing Cloud (foundational)  
-Moodle LMS  
-Shopify API & data layer concepts  
+Lifecycle automation systems  
+Segmentation strategy & personalization  
+CRM migrations & data normalization  
 
 ---
 
@@ -147,27 +127,24 @@ Git & GitHub
 GitHub Actions (basic CI)  
 SSH server operations  
 Systemd logs & service management  
-Virtual environments & node/python dependency isolation  
 
 ---
 
 ### Backend Workflow Tools
 Postman – API testing & automation  
 cURL – CLI-based HTTP testing  
-DBeaver – cross-database management  
+DBeaver – database management  
 phpMyAdmin – MySQL/MariaDB admin  
 Git CLI – branching & workflow management  
-Shell utilities for automation  
 
 ---
 
-### AI, ML & Automation Tools
+### AI & Data Processing
 ChatGPT – solution design, coding, automation prototyping  
-Claude – documentation & complex reasoning  
-Perplexity – research & fact validation  
+Claude – documentation & reasoning  
+Perplexity – research & validation  
 GitHub Copilot – AI-assisted development  
-ML tools – preprocessing, evaluation, pipelines  
-Feature engineering & experimentation  
+ML workflows – preprocessing, evaluation, pipelines  
 
 ---
 
@@ -189,63 +166,68 @@ Secure API request handling
 
 ---
 
+## Selected Work
+
+### System & Integration Work
+- Built and stabilized backend systems and APIs supporting real-time data workflows  
+- Integrated third-party platforms (CRM, email, external services) using APIs, webhooks, and data pipelines  
+- Diagnosed and resolved issues in live systems, improving reliability and performance  
+
+### CRM & Automation Systems
+- Designed and improved lifecycle marketing flows (welcome, abandoned cart, winback)  
+- Cleaned and structured data for accurate segmentation and automation  
+- Improved deliverability and performance across email systems (Klaviyo and similar)  
+
+### Web & Application Development
+- Developed and maintained WordPress and custom web applications  
+- Built backend logic and integrations connecting frontend systems to external services  
+- Delivered full-stack solutions across PHP, JavaScript, and Python-based environments  
+
+---
+
 ## Featured Case Studies
 
 ### CRM Migration Case Study (Mailchimp → Klaviyo)
-End-to-end migration including data normalization, segmentation structure, flow rebuilds, DNS authentication, and deliverability improvements.  
+End-to-end migration including data normalization, segmentation structure, flow rebuilds, DNS authentication, and deliverability improvements  
 **Repo:** https://github.com/jack-ivanisevic/crm-migration-case-study
 
 ### Lifecycle Automation Architecture
-Ecosystem of welcome, cart, browse, post-purchase, winback, and reactivation flows built with segmentation logic and timing strategy.  
+Full lifecycle system including segmentation logic, triggers, and timing strategy  
 **Repo:** https://github.com/jack-ivanisevic/lifecycle-automation-architecture
 
 ### Technical Integrations & Webhooks
-Patterns for API logic, data ingestion, event handling, and JSON workflow design.  
+API logic, data ingestion, event handling, and JSON workflow design patterns  
 **Repo:** https://github.com/jack-ivanisevic/technical-integrations-webhooks
 
 ### Analytics & Data Frameworks
-Modeling, UTM governance, dashboards, and reporting frameworks for CRM insights.  
+UTM governance, reporting systems, and CRM performance tracking  
 **Repo:** https://github.com/jack-ivanisevic/analytics-data-frameworks
 
 ---
 
 ## Additional Projects
 
-- **Cancer Cell Classification – ML Case Study**  
-  Applied ML pipeline: preprocessing, classification, evaluation  
-  https://github.com/jack-ivanisevic/ml-cancer-cell-classification
+- Cancer Cell Classification (ML)  
+  https://github.com/jack-ivanisevic/ml-cancer-cell-classification  
 
-- **Python Automation Scripts Pack**  
-  CSV cleaning, JSON normalization, API utilities  
-  https://github.com/jack-ivanisevic/python-automation-scripts
+- Python Automation Scripts  
+  https://github.com/jack-ivanisevic/python-automation-scripts  
 
-- **Mini CRM Dashboard App (Concept)**  
-  Full-stack CRM dashboard architecture  
-  https://github.com/jack-ivanisevic/mini-crm-dashboard-architecture
+- Mini CRM Dashboard (Concept)  
+  https://github.com/jack-ivanisevic/mini-crm-dashboard-architecture  
 
-- **AI-Assisted Email Subject Line Generator**  
-  Rule-based + AI-inspired subject line logic  
-  https://github.com/jack-ivanisevic/ai-email-subject-line-generator
+- AI Email Subject Generator  
+  https://github.com/jack-ivanisevic/ai-email-subject-line-generator  
 
-- **LMS Module Development Case Study**  
-  Moodle workflows, automation, learning path logic  
-  https://github.com/jack-ivanisevic/lms-module-development
+- LMS Module Development  
+  https://github.com/jack-ivanisevic/lms-module-development  
 
-- **Inventory Management System Architecture**  
-  API structure, data model, workflow planning  
-  https://github.com/jack-ivanisevic/inventory-system-architecture
-
----
-
-## Fun Fact
-
-CRM, email automation, and coding are so enjoyable to me that they rarely feel like “work.”  
-I’ve always resonated with the quote often attributed to Confucius:  
-**“Choose a job you love, and you’ll never work a day in your life.”**
+- Inventory System Architecture  
+  https://github.com/jack-ivanisevic/inventory-system-architecture  
 
 ---
 
 ## Contact
 
-**Email:** tftjack@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/jack-ivanisevic/
+Email: tftjack@gmail.com  
+LinkedIn: https://www.linkedin.com/in/jack-ivanisevic/
