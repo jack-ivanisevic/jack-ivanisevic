@@ -169,7 +169,7 @@ Secure API request handling
 ## Selected Work
 
 ### System & Integration Work
-- Built and stabilized backend systems and APIs supporting real-time data workflows  
+- Built and stabilized backend systems and APIs for real-time data workflows
 - Integrated third-party platforms (CRM, email, external services) using APIs, webhooks, and data pipelines  
 - Diagnosed and resolved issues in live systems, improving reliability and performance  
 
@@ -207,7 +207,7 @@ UTM governance, reporting systems, and CRM performance tracking
 
 ## Additional Projects
 
-- Cancer Cell Classification (ML)  
+- Cancer Cell Classification (Machine Learning)  
   https://github.com/jack-ivanisevic/ml-cancer-cell-classification  
 
 - Python Automation Scripts  
