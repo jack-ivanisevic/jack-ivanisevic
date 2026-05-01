@@ -12,34 +12,33 @@ I work across PHP, WordPress, Node.js, Python (FastAPI), and SQL-based systems t
 
 ## Skills Matrix
 
-### Backend Systems & Integrations
-- REST API design & system integration  
-- JSON parsing, normalization, transformation  
-- SQL querying and schema design  
-- Linux tooling & command-line operations  
-- Systems architecture & documentation  
+### Systems Architecture & Integration
+- REST API design & system integration (Webhooks, Event-driven logic)
+- JSON parsing, normalization, transformation & cross-system synchronization
+- SQL querying, schema design, and data modeling
+- Linux tooling, SSH server operations & command-line proficiency
+- Systems architecture, documentation, and modular code organization
 
-### Development & Architecture
-- Python development (automation, data processing, API services)  
-- Backend architecture & service-layer patterns  
-- CRUD operations, validation & error handling  
-- UI logic for dashboards & internal tools  
-- Modular, maintainable code organization  
+### Development & Leadership
+- Python development (Automation, Data Processing, API services)
+- Full-stack architecture (Node.js, Express, React, TypeScript)
+- CRUD operations, validation, error handling & secure API request handling
+- Strategic IT Leadership: Aligning technical debt reduction with business growth
+- UI logic for dashboards & high-performance internal tools
 
-### CRM & Automation Systems
-- Lifecycle automation: welcome, cart, post-purchase, winback, sunset  
-- Segmentation strategy & personalization  
-- Deliverability, DNS (SPF/DKIM/DMARC), domain warming  
-- A/B testing, performance analytics, UTM governance  
-- CRM migrations (Mailchimp → Klaviyo, SFMC familiarity)  
-- Consent compliance (CASL, CAN-SPAM)  
+### CRM & Deliverability Engineering
+- Lifecycle automation: Welcome, cart, post-purchase, winback, and sunset flows
+- Segmentation strategy, personalization & data normalization
+- Deliverability: SPF/DKIM/DMARC, domain warming, and inbox troubleshooting
+- A/B testing, performance analytics, and UTM governance
+- CRM migrations (Mailchimp → Klaviyo, HubSpot, SFMC familiarity)
+- Compliance: CASL, CAN-SPAM, and list hygiene workflows
 
 ### AI & Data Processing
-- ML workflows: classification, preprocessing, evaluation  
-- Jupyter-based experimentation  
-- Model interpretation: accuracy, precision, recall, F1  
-- Data pipelines & reproducibility  
-- Feature engineering & dataset preparation  
+- ML workflows: Classification, preprocessing, evaluation, and pipelines
+- Jupyter-based experimentation and dataset preparation
+- Model interpretation: Accuracy, precision, recall, F1
+- AI-assisted development (ChatGPT, Claude, GitHub Copilot) for rapid prototyping
 
 ---
 
@@ -49,120 +48,38 @@ I work across PHP, WordPress, Node.js, Python (FastAPI), and SQL-based systems t
 <br>
 
 ### Languages
-Python  
-PHP  
-JavaScript  
-TypeScript — light usage  
-SQL  
-HTML / CSS  
-Bash / Shell scripting  
-
----
+- Python
+- PHP
+- JavaScript
+- TypeScript (Proficient)
+- SQL
+- HTML / CSS
+- Bash / Shell scripting
 
 ### Backend Frameworks & Libraries
-FastAPI  
-Django — foundational  
-Express.js — intermediate usage  
-Node.js — intermediate usage  
-Flask  
-Pandas  
-NumPy  
-scikit-learn  
-Jupyter Notebooks  
-Requests — API workflows  
-
----
+- FastAPI
+- Node.js & Express.js
+- Django (Foundational)
+- Flask
+- Pandas, NumPy, scikit-learn
+- Requests — API workflows
 
 ### Frontend & UI Frameworks
-React  
-React Native  
-UI component patterns for dashboards & internal tools  
+- React & React Native
+- Advanced UI Animations (GSAP)
+- Responsive UI component patterns for dashboards
 
----
+### Databases & Cloud
+- PostgreSQL (Foundational)
+- MySQL / MariaDB / SQLite
+- AWS (S3, IAM) & DigitalOcean
+- Docker (Foundational) & Nginx/Apache configuration
 
-### Databases
-MySQL  
-MariaDB  
-SQLite  
-PostgreSQL — foundational  
-
----
-
-### Backend Systems & Integrations
-REST API design & integration  
-Webhook ingestion & design  
-JSON parsing, normalization, transformation  
-Event-driven workflow logic  
-Schema planning & data modeling  
-Cross-system data synchronization  
-
----
-
-### CRM & Automation Systems
-Klaviyo  
-Mailchimp  
-HubSpot  
-Salesforce Marketing Cloud — foundational  
-Lifecycle automation systems  
-Segmentation strategy & personalization  
-CRM migrations & data normalization  
-
----
-
-### Email & Deliverability Engineering
-SPF/DKIM/DMARC configuration  
-Send domain warmup & authentication  
-Inbox placement troubleshooting  
-Suppression & complaint monitoring  
-List hygiene workflows  
-IP/domain reputation strategy  
-CASL & CAN-SPAM compliance  
-
----
-
-### DevOps, Tooling & System Operations
-Linux — Ubuntu  
-Docker — foundational  
-Nginx — basic configuration  
-Apache — basic configuration  
-Git & GitHub  
-GitHub Actions — basic CI  
-SSH server operations  
-Systemd logs & service management  
-
----
-
-### Backend Workflow Tools
-Postman — API testing & automation  
-cURL — CLI-based HTTP testing  
-DBeaver — database management  
-phpMyAdmin — MySQL/MariaDB admin  
-Git CLI — branching & workflow management  
-
----
-
-### AI & Data Processing
-ChatGPT — solution design, coding, automation prototyping  
-Claude — documentation & reasoning  
-Perplexity — research & validation  
-GitHub Copilot — AI-assisted development  
-ML workflows — preprocessing, evaluation, pipelines  
-
----
-
-### Cloud & Deployment — Foundational
-Dockerized dev environments  
-AWS — S3, IAM basics  
-DigitalOcean  
-Environment-based configuration patterns  
-
----
-
-### Security & Authentication — Foundational
-JWT / token authentication  
-OAuth concepts  
-RBAC — role-based access control  
-Secure API request handling  
+### Tools & DevOps
+- Git / GitHub / GitHub Actions (CI/CD)
+- Postman & cURL (API testing)
+- DBeaver & phpMyAdmin
+- Systemd logs & service management
 
 </details>
 
