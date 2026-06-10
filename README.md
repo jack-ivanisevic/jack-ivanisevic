@@ -6,27 +6,68 @@ I design, build, and stabilize backend systems, APIs, and integrations that supp
 
 My work focuses on stabilizing applications, connecting systems correctly, and improving how data flows between platforms, including CRM and lifecycle marketing systems where they impact revenue and performance.<br><br>
 
-I work across PHP, WordPress, Node.js, Python (FastAPI), and SQL-based systems to deliver reliable, production-ready solutions.
+I work across PHP, WordPress, Node.js, TypeScript, Python (FastAPI), React, and SQL-based systems to deliver reliable, production-ready solutions.
 
 ---
 
-## Skills Matrix
+# Featured Platforms
 
-### Systems Architecture & Integration
+## Invyntra
+
+A multi-tenant asset lifecycle and compliance platform designed to help organizations track, manage, and stay ahead of critical asset expiries, inspections, maintenance activities, and operational workflows.
+
+### Highlights
+
+- Multi-tenant architecture
+- Role-based access control
+- Asset lifecycle management
+- Inspection and maintenance workflows
+- Escalations and notifications
+- Reporting and operational visibility
+- REST APIs and workflow automation
+
+**Tech:** Node.js, Express, TypeScript, Prisma, PostgreSQL, React
+
+---
+
+## PolicyIQ
+
+An AI-assisted policy governance platform focused on helping organizations manage policies, versions, approvals, and compliance processes.
+
+### Highlights
+
+- Policy lifecycle management
+- Version control and audit history
+- Role-based access control
+- Organization-aware architecture
+- AI-assisted policy understanding
+- Mobile-first experience
+- Secure and scalable design
+
+**Tech:** React Native, Expo, TypeScript, PostgreSQL, REST APIs
+
+---
+
+# Skills Matrix
+
+## Systems Architecture & Integration
+
 - REST API design & system integration (Webhooks, Event-driven logic)
 - JSON parsing, normalization, transformation & cross-system synchronization
 - SQL querying, schema design, and data modeling
 - Linux tooling, SSH server operations & command-line proficiency
 - Systems architecture, documentation, and modular code organization
 
-### Development & Leadership
+## Development & Leadership
+
 - Python development (Automation, Data Processing, API services)
 - Full-stack architecture (Node.js, Express, React, TypeScript)
 - CRUD operations, validation, error handling & secure API request handling
 - Strategic IT Leadership: Aligning technical debt reduction with business growth
 - UI logic for dashboards & high-performance internal tools
 
-### CRM & Deliverability Engineering
+## CRM & Deliverability Engineering
+
 - Lifecycle automation: Welcome, cart, post-purchase, winback, and sunset flows
 - Segmentation strategy, personalization & data normalization
 - Deliverability: SPF/DKIM/DMARC, domain warming, and inbox troubleshooting
@@ -34,11 +75,12 @@ I work across PHP, WordPress, Node.js, Python (FastAPI), and SQL-based systems t
 - CRM migrations (Mailchimp → Klaviyo, HubSpot, SFMC familiarity)
 - Compliance: CASL, CAN-SPAM, and list hygiene workflows
 
-### AI & Data Processing
+## AI & Data Processing
+
 - ML workflows: Classification, preprocessing, evaluation, and pipelines
 - Jupyter-based experimentation and dataset preparation
-- Model interpretation: Accuracy, precision, recall, F1
-- AI-assisted development (ChatGPT, Claude, GitHub Copilot) for rapid prototyping
+- Model interpretation: Accuracy, precision, recall, and F1
+- AI-assisted workflow automation and rapid prototyping
 
 ---
 
@@ -47,7 +89,8 @@ I work across PHP, WordPress, Node.js, Python (FastAPI), and SQL-based systems t
 
 <br>
 
-### Languages
+## Languages
+
 - Python
 - PHP
 - JavaScript
@@ -56,7 +99,8 @@ I work across PHP, WordPress, Node.js, Python (FastAPI), and SQL-based systems t
 - HTML / CSS
 - Bash / Shell scripting
 
-### Backend Frameworks & Libraries
+## Backend Frameworks & Libraries
+
 - FastAPI
 - Node.js & Express.js
 - Django (Foundational)
@@ -64,18 +108,22 @@ I work across PHP, WordPress, Node.js, Python (FastAPI), and SQL-based systems t
 - Pandas, NumPy, scikit-learn
 - Requests — API workflows
 
-### Frontend & UI Frameworks
+## Frontend & UI Frameworks
+
 - React & React Native
 - Advanced UI Animations (GSAP)
 - Responsive UI component patterns for dashboards
 
-### Databases & Cloud
+## Databases & Cloud
+
 - PostgreSQL (Foundational)
 - MySQL / MariaDB / SQLite
 - AWS (S3, IAM) & DigitalOcean
-- Docker (Foundational) & Nginx/Apache configuration
+- Docker (Foundational)
+- Nginx/Apache configuration
 
-### Tools & DevOps
+## Tools & DevOps
+
 - Git / GitHub / GitHub Actions (CI/CD)
 - Postman & cURL (API testing)
 - DBeaver & phpMyAdmin
@@ -85,69 +133,107 @@ I work across PHP, WordPress, Node.js, Python (FastAPI), and SQL-based systems t
 
 ---
 
-## Selected Work
+# Selected Work
 
-### System & Integration Work
-- Built and stabilized backend systems and APIs for real-time data workflows in production environments  
-- Integrated third-party platforms including CRM, email, and external services using APIs, webhooks, and data pipelines  
-- Diagnosed and resolved issues in live systems, improving reliability and performance  
+## System & Integration Work
 
-### CRM & Automation Systems
-- Designed and improved lifecycle marketing flows including welcome, abandoned cart, and winback automations  
-- Cleaned and structured data for accurate segmentation and automation  
-- Improved deliverability and performance across email systems including Klaviyo and similar platforms  
+- Built and stabilized backend systems and APIs for real-time data workflows in production environments
+- Integrated third-party platforms including CRM, email, and external services using APIs, webhooks, and data pipelines
+- Diagnosed and resolved issues in live systems, improving reliability and performance
 
-### Web & Application Development
-- Developed and maintained WordPress and custom web applications  
-- Built backend logic and integrations to connect application layers with external services 
-- Delivered full-stack solutions across PHP, JavaScript, and Python-based environments  
+## CRM & Automation Systems
+
+- Designed and improved lifecycle marketing flows including welcome, abandoned cart, and winback automations
+- Cleaned and structured data for accurate segmentation and automation
+- Improved deliverability and performance across email systems including Klaviyo and similar platforms
+
+## Web & Application Development
+
+- Developed and maintained WordPress and custom web applications
+- Built backend logic and integrations to connect application layers with external services
+- Delivered full-stack solutions across PHP, JavaScript, TypeScript, and Python-based environments
 
 ---
 
-## Featured Case Studies
+# Featured Case Studies
 
-### Technical Integrations & Webhook Systems
-Backend integration patterns including API workflows, webhook processing, JSON transformation, event routing, and system-to-system data flow.  
+## Invyntra — Asset Lifecycle & Compliance Platform
+
+Multi-tenant SaaS platform for managing asset expiries, inspections, maintenance workflows, notifications, reporting, and operational visibility.
+
+**Tech:** Node.js, Express, TypeScript, Prisma, PostgreSQL, React
+
+---
+
+## PolicyIQ — AI-Assisted Policy Governance Platform
+
+Mobile-first policy management platform providing lifecycle management, versioning, approvals, audit history, and AI-assisted policy understanding.
+
+**Tech:** React Native, Expo, TypeScript, PostgreSQL
+
+---
+
+## Technical Integrations & Webhook Systems
+
+Backend integration patterns including API workflows, webhook processing, JSON transformation, event routing, and system-to-system data flow.
+
 **Repo:** https://github.com/jack-ivanisevic/technical-integrations-webhooks
 
-### CRM Migration Case Study — Mailchimp → Klaviyo
-End-to-end migration including data normalization, segmentation structure, flow rebuilds, DNS authentication, and deliverability improvements.  
+---
+
+## CRM Migration Case Study — Mailchimp → Klaviyo
+
+End-to-end migration including data normalization, segmentation structure, flow rebuilds, DNS authentication, and deliverability improvements.
+
 **Repo:** https://github.com/jack-ivanisevic/crm-migration
 
-### Mini CRM Dashboard Architecture
-Concept-level full-stack CRM dashboard architecture including backend route patterns, data modeling, and UI logic for internal CRM workflow management.  
+---
+
+## Mini CRM Dashboard Architecture
+
+Concept-level full-stack CRM dashboard architecture including backend route patterns, data modeling, and UI logic for internal CRM workflow management.
+
 **Repo:** https://github.com/jack-ivanisevic/mini-crm-dashboard-architecture
 
-### Python Automation Scripts
-Practical Python utilities for CRM and data workflows, including CSV cleaning, JSON normalization, API fetching, and general-purpose data processing.  
+---
+
+## Python Automation Scripts
+
+Practical Python utilities for CRM and data workflows, including CSV cleaning, JSON normalization, API fetching, and general-purpose data processing.
+
 **Repo:** https://github.com/jack-ivanisevic/python-automation-scripts
 
-### Inventory System Architecture
-High-level system architecture for a scalable inventory and asset tracking platform, including API structure, data models, workflow planning, and operational logic.  
+---
+
+## Inventory System Architecture
+
+High-level system architecture for a scalable inventory and asset tracking platform, including API structure, data models, workflow planning, and operational logic.
+
 **Repo:** https://github.com/jack-ivanisevic/inventory-system-architecture
 
 ---
 
-## Additional Projects
+# Additional Projects
 
 - Lifecycle Automation Architecture  
-  https://github.com/jack-ivanisevic/lifecycle-automation-architecture  
+  https://github.com/jack-ivanisevic/lifecycle-automation-architecture
 
 - Analytics & Data Frameworks  
-  https://github.com/jack-ivanisevic/analytics-data-frameworks  
+  https://github.com/jack-ivanisevic/analytics-data-frameworks
 
 - Cancer Cell Classification — Machine Learning  
-  https://github.com/jack-ivanisevic/ml-cancer-cell-classification  
+  https://github.com/jack-ivanisevic/ml-cancer-cell-classification
 
 - AI Email Subject Generator  
-  https://github.com/jack-ivanisevic/ai-email-subject-line-generator  
+  https://github.com/jack-ivanisevic/ai-email-subject-line-generator
 
 - LMS Module Development  
-  https://github.com/jack-ivanisevic/lms-module-development  
+  https://github.com/jack-ivanisevic/lms-module-development
 
 ---
 
-## Contact
+# Contact
 
-Email: tftjack@gmail.com  
-LinkedIn: https://www.linkedin.com/in/jack-ivanisevic/
+**Email:** tftjack@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/jack-ivanisevic/
