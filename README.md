@@ -1,6 +1,4 @@
-<img width="1672" height="748" alt="Jack002-ASK-Background" src="https://github.com/user-attachments/assets/84a39c2a-d674-4dfc-b543-6c8063dfb9cf" />
-
-
+<img width="1672" height="748" alt="Jack003-ASK-Background" src="https://github.com/user-attachments/assets/5c82d51f-39ba-415f-9468-1aac91ada7dc" />
 
 <br>
 
