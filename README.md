@@ -28,6 +28,8 @@ A multi-tenant asset lifecycle and compliance platform designed to help organiza
 
 **Tech:** Node.js, Express, TypeScript, Prisma, PostgreSQL, React
 
+**Repo:** https://github.com/jack-ivanisevic/Invyntra
+
 ---
 
 ## PolicyIQ
@@ -45,6 +47,8 @@ An AI-assisted policy governance platform focused on helping organizations manag
 - Secure and scalable design
 
 **Tech:** React Native, Expo, TypeScript, PostgreSQL, REST APIs
+
+**Repo:** https://github.com/jack-ivanisevic/PolicyIQ
 
 ---
 
