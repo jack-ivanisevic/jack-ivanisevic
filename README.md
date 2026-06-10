@@ -1,11 +1,8 @@
 <img width="1672" height="748" alt="Jack003-ASK-Background" src="https://github.com/user-attachments/assets/5c82d51f-39ba-415f-9468-1aac91ada7dc" />
-
 <br>
-
 I design, build, and stabilize backend systems, APIs, and integrations that support real-world business operations — especially when systems are messy, unreliable, or not scaling.<br><br>
-
-My work focuses on stabilizing applications, connecting systems correctly, and improving how data flows between platforms, including CRM and lifecycle marketing systems where they impact revenue and performance.<br><br>
-
+My work focuses on stabilizing applications, connecting systems correctly, and improving how data flows between platforms, including CRM and lifecycle marketing systems where they impact revenue and performance.<br>
+<br>
 I work across PHP, WordPress, Node.js, TypeScript, Python (FastAPI), React, and SQL-based systems to deliver reliable, production-ready solutions.
 
 ---
