@@ -78,6 +78,8 @@ An AI-assisted policy governance platform focused on helping organizations manag
 - A/B testing, performance analytics, and UTM governance
 - CRM migrations (Mailchimp → Klaviyo, HubSpot, SFMC familiarity)
 - Compliance: CASL, CAN-SPAM, and list hygiene workflows
+- Klaviyo lifecycle marketing and customer retention workflows
+- Revenue attribution and campaign performance analysis
 
 ## AI & Data Processing
 
@@ -149,7 +151,7 @@ An AI-assisted policy governance platform focused on helping organizations manag
 
 - Designed and improved lifecycle marketing flows including welcome, abandoned cart, and winback automations
 - Cleaned and structured data for accurate segmentation and automation
-- Improved deliverability and performance across email systems including Klaviyo and similar platforms
+- - Improved lifecycle marketing performance, deliverability, and customer segmentation across Klaviyo and related CRM platforms
 
 ## Web & Application Development
 
