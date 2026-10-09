@@ -11,6 +11,8 @@ I work across PHP, WordPress, Node.js, TypeScript, Python (FastAPI), React, and 
 
 ## Invyntra
 
+<img src="assets/logos/invyntra.png" alt="Invyntra Logo" width="80">
+
 A multi-tenant asset lifecycle and compliance platform designed to help organizations track, manage, and stay ahead of critical asset expiries, inspections, maintenance activities, and operational workflows.
 
 ### Highlights
@@ -31,6 +33,8 @@ A multi-tenant asset lifecycle and compliance platform designed to help organiza
 
 ## PolicyIQ
 
+<img src="assets/logos/policyiq.png" alt="PolicyIQ Logo" width="80">
+
 An AI-assisted policy governance platform focused on helping organizations manage policies, versions, approvals, and compliance processes.
 
 ### Highlights
@@ -50,6 +54,8 @@ An AI-assisted policy governance platform focused on helping organizations manag
 ---
 
 ## ASK Website — Custom WordPress Platform
+
+<img src="assets/logos/ask-logo.png" alt="Apex Solutions & Knowledge Logo" width="80">
 
 A custom WordPress website developed for Apex Solutions & Knowledge (ASK), featuring a purpose-built block theme, reusable page templates, and a companion plugin for business-specific functionality.
 
@@ -72,6 +78,8 @@ A custom WordPress website developed for Apex Solutions & Knowledge (ASK), featu
 ---
 
 ## PieceFall — Interactive Puzzle Game
+
+<img src="assets/logos/piecefall.png" alt="PieceFall Logo" width="80">
 
 An original tile-based puzzle game being developed with React Native and TypeScript. PieceFall combines image-matching challenges with gravity-driven movement, connected tile groups, and interactive drag-and-drop mechanics.
 
