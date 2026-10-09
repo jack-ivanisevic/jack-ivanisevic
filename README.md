@@ -55,6 +55,8 @@ An AI-assisted policy governance platform focused on helping organizations manag
 
 ## LearnPilot — Learning Management Platform
 
+<img src="assets/logos/learn_pilot.png" alt="LearnPilot Logo" width="80">
+
 LearnPilot is an ASK platform focused on delivering and managing online learning experiences.
 
 **Status:** In development
