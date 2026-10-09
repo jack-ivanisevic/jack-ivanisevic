@@ -11,7 +11,7 @@ I work across PHP, WordPress, Node.js, TypeScript, Python (FastAPI), React, and 
 
 ## Invyntra
 
-<img src="assets/logos/invyntra.png" alt="Invyntra Logo" width="80">
+<img src="assets/logos/invyntra.png" alt="Invyntra Logo" width="100">
 
 A multi-tenant asset lifecycle and compliance platform designed to help organizations track, manage, and stay ahead of critical asset expiries, inspections, maintenance activities, and operational workflows.
 
@@ -33,7 +33,7 @@ A multi-tenant asset lifecycle and compliance platform designed to help organiza
 
 ## PolicyIQ
 
-<img src="assets/logos/policyiq.png" alt="PolicyIQ Logo" width="80">
+<img src="assets/logos/policyiq.png" alt="PolicyIQ Logo" width="150">
 
 An AI-assisted policy governance platform focused on helping organizations manage policies, versions, approvals, and compliance processes.
 
@@ -55,7 +55,7 @@ An AI-assisted policy governance platform focused on helping organizations manag
 
 ## LearnPilot — AI-Powered Personal Learning
 
-<img src="assets/logos/learn_pilot.png" alt="LearnPilot Logo" width="80">
+<img src="assets/logos/learn_pilot.png" alt="LearnPilot Logo" width="140">
 
 **Learn a little. Remember a lot.**
 
@@ -81,7 +81,7 @@ Focused on long-term retention rather than simply completing courses, LearnPilot
 
 ## Learning Suite — AI-Powered Learning Intelligence Platform
 
-<img src="assets/logos/Learning%20Suite%20Glossy%20Emblem.png" alt="Learning Suite Logo" width="140">
+<img src="assets/logos/Learning%20Suite%20Glossy%20Emblem.png" alt="Learning Suite Logo" width="190">
 
 **Intelligent Learning. Connected Insights. Better Outcomes.**
 
@@ -107,7 +107,7 @@ Its vision is to connect personal learning, intelligent assessments, mastery ana
 
 ## ASK Website — Custom WordPress Platform
 
-<img src="assets/logos/ask-logo.png" alt="Apex Solutions & Knowledge Logo" width="80">
+<img src="assets/logos/ask-logo.png" alt="Apex Solutions & Knowledge Logo" width="100">
 
 A custom WordPress website developed for Apex Solutions & Knowledge (ASK), featuring a purpose-built block theme, reusable page templates, and a companion plugin for business-specific functionality.
 
@@ -131,7 +131,7 @@ A custom WordPress website developed for Apex Solutions & Knowledge (ASK), featu
 
 ## PieceFall — Interactive Puzzle Game
 
-<img src="assets/logos/piecefall.png" alt="PieceFall Logo" width="80">
+<img src="assets/logos/piecefall.png" alt="PieceFall Logo" width="240">
 
 An original tile-based puzzle game being developed with React Native and TypeScript. PieceFall combines image-matching challenges with gravity-driven movement, connected tile groups, and interactive drag-and-drop mechanics.
 
