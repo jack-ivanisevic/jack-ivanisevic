@@ -53,29 +53,53 @@ An AI-assisted policy governance platform focused on helping organizations manag
 
 ---
 
-## LearnPilot — AI-Powered Microlearning Platform
+## LearnPilot — AI-Powered Personal Learning
 
 <img src="assets/logos/learn_pilot.png" alt="LearnPilot Logo" width="80">
 
 **Learn a little. Remember a lot.**
 
-LearnPilot is an AI-powered microlearning platform being designed to help individuals and organizations build lasting knowledge through personalized 5–10-minute daily learning experiences.
+LearnPilot is a personal, learner-facing AI-powered application being designed to help people build lasting knowledge through personalized 5–10-minute microlearning experiences.
 
-Unlike traditional learning platforms focused primarily on course completion, LearnPilot emphasizes long-term knowledge retention through intelligent reinforcement, adaptive learning, and personalized AI coaching.
+Focused on long-term retention rather than simply completing courses, LearnPilot emphasizes adaptive learning paths, intelligent reinforcement, and personalized AI coaching. It is designed to operate independently or as part of the broader **Learning Suite** ecosystem.
 
 ### Planned Capabilities
 
-- AI-powered learning coach and personalized learning paths
-- Daily 5–10-minute microlearning sessions
-- Adaptive quizzes and intelligent knowledge reinforcement
-- Progress tracking, achievements, and learning streaks
-- Organizational onboarding, compliance, and employee training
-- Learning analytics and administrative dashboards
-- Mobile-first experience for individual and organizational learners
+- AI-guided personal learning paths and coaching
+- Focused 5–10-minute microlearning sessions
+- Adaptive pacing and knowledge reinforcement
+- Individual progress tracking, achievements, and learning streaks
+- Mobile-first personal learning experience
 
 **Planned Tech:** React Native, TypeScript, Node.js, Express, PostgreSQL, Prisma, AI services, RevenueCat
 
 **Status:** Product definition and development planning
+
+**Source:** Private / proprietary project — available for discussion upon request.
+
+---
+
+## Learning Suite — AI-Powered Learning Intelligence Platform
+
+<img src="assets/logos/Learning%20Suite%20Glossy%20Emblem.png" alt="Learning Suite Logo" width="140">
+
+**Intelligent Learning. Connected Insights. Better Outcomes.**
+
+Learning Suite is a modular AI-powered learning intelligence platform being designed by **Apex Solutions & Knowledge (ASK)** to complement existing Learning Management Systems (LMS) or operate independently.
+
+Its vision is to connect personal learning, intelligent assessments, mastery analytics, learning integrity, and lecture intelligence in one extensible ecosystem.
+
+### Planned Modules
+
+- **LearnPilot** — Personalized AI-guided learning and microlearning
+- **QuizLab** — Intelligent assessments and adaptive quizzes
+- **TrackAI** — Mastery tracking and proof-of-learning analytics
+- **Guardian** — Learning integrity, verification, and compliance
+- **VoxPhyre** — Lecture intelligence, transcription, and AI-assisted understanding
+
+**Current Focus:** LearnPilot is the first module being defined and developed.
+
+**Status:** Product planning and phased development; modules and integrations are planned, not necessarily implemented.
 
 **Source:** Private / proprietary project — available for discussion upon request.
 
@@ -228,7 +252,7 @@ An original tile-based puzzle game being developed with React Native and TypeScr
 
 - Designed and improved lifecycle marketing flows including welcome, abandoned cart, and winback automations
 - Cleaned and structured data for accurate segmentation and automation
-- - Improved lifecycle marketing performance, deliverability, and customer segmentation across Klaviyo and related CRM platforms
+- Improved lifecycle marketing performance, deliverability, and customer segmentation across Klaviyo and related CRM platforms
 
 ## Web & Application Development
 
