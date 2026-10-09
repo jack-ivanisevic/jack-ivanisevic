@@ -49,6 +49,50 @@ An AI-assisted policy governance platform focused on helping organizations manag
 
 ---
 
+## ASK Website — Custom WordPress Platform
+
+A custom WordPress website developed for Apex Solutions & Knowledge (ASK), featuring a purpose-built block theme, reusable page templates, and a companion plugin for business-specific functionality.
+
+### Highlights
+
+- Custom WordPress block theme and reusable page patterns
+- PHP-based plugin architecture and custom content types
+- Secure form handling, input validation, and spam protection
+- Invyntra Beta application management and email notifications
+- Private application records within WordPress
+- Responsive layouts and custom branding
+- Linux server administration and SSH/rsync staging deployment
+
+**Tech:** PHP 8.4, WordPress, HTML, CSS, Bash, Git, SSH, rsync
+
+**Website:** https://apexsandk.com/
+
+**Source:** Private repository — available for discussion upon request.
+
+---
+
+## PieceFall — Interactive Puzzle Game
+
+An original tile-based puzzle game being developed with React Native and TypeScript. PieceFall combines image-matching challenges with gravity-driven movement, connected tile groups, and interactive drag-and-drop mechanics.
+
+### Highlights
+
+- Custom tile movement and collision logic
+- Connected tile groups with dynamic joining and separation
+- Gravity-driven board and column queue mechanics
+- Animated tile displacement and swapping
+- Image-based puzzle completion mechanics
+- Scoring system design
+- Ongoing prototype development and testing
+
+**Tech:** React Native, TypeScript, JavaScript
+
+**Status:** Active development / prototype
+
+**Source:** Private repository — gameplay demonstration planned.
+
+---
+
 # Skills Matrix
 
 ## Systems Architecture & Integration
