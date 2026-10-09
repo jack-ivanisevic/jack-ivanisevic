@@ -53,6 +53,35 @@ An AI-assisted policy governance platform focused on helping organizations manag
 
 ---
 
+
+## VaultIQ — AI-Powered Document Intelligence
+
+<img src="assets/logos/VaultIQ.png" alt="VaultIQ Logo" width="140">
+
+**Secure. Intelligent. Accessible.**
+
+VaultIQ is a planned AI-powered document intelligence and secure management platform developed by Apex Solutions & Knowledge (ASK).
+
+Designed initially for businesses, VaultIQ aims to simplify how organizations securely store, organize, search, and manage important documents throughout their lifecycle. A personal edition is envisioned for future development.
+
+### Planned Capabilities
+
+- Secure document storage and organization
+- AI-powered document classification and tagging
+- OCR and intelligent text extraction
+- Natural-language and semantic document search
+- Document expiry tracking and renewal reminders
+- Role-based permissions and secure sharing
+- Audit trails, retention policies, and compliance workflows
+
+**Planned Tech:** React, TypeScript, Node.js, REST APIs, OCR, AI/NLP
+
+**Status:** Product planning — Development on hold
+
+**Source:** Private / proprietary project — available for discussion upon request.
+
+---
+
 ## LearnPilot — AI-Powered Personal Learning
 
 <img src="assets/logos/learn_pilot.png" alt="LearnPilot Logo" width="140">
