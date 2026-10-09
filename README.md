@@ -53,15 +53,31 @@ An AI-assisted policy governance platform focused on helping organizations manag
 
 ---
 
-## LearnPilot — Learning Management Platform
+## LearnPilot — AI-Powered Microlearning Platform
 
 <img src="assets/logos/learn_pilot.png" alt="LearnPilot Logo" width="80">
 
-LearnPilot is an ASK platform focused on delivering and managing online learning experiences.
+**Learn a little. Remember a lot.**
 
-**Status:** In development
+LearnPilot is an AI-powered microlearning platform being designed to help individuals and organizations build lasting knowledge through personalized 5–10-minute daily learning experiences.
 
-**Source:** Private repository — available for discussion upon request.
+Unlike traditional learning platforms focused primarily on course completion, LearnPilot emphasizes long-term knowledge retention through intelligent reinforcement, adaptive learning, and personalized AI coaching.
+
+### Planned Capabilities
+
+- AI-powered learning coach and personalized learning paths
+- Daily 5–10-minute microlearning sessions
+- Adaptive quizzes and intelligent knowledge reinforcement
+- Progress tracking, achievements, and learning streaks
+- Organizational onboarding, compliance, and employee training
+- Learning analytics and administrative dashboards
+- Mobile-first experience for individual and organizational learners
+
+**Planned Tech:** React Native, TypeScript, Node.js, Express, PostgreSQL, Prisma, AI services, RevenueCat
+
+**Status:** Product definition and development planning
+
+**Source:** Private / proprietary project — available for discussion upon request.
 
 ---
 
